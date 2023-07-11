@@ -1,0 +1,13 @@
+{
+    "FIRST_NAME" : "",
+    "LAST_NAME" : "",
+    "ADDRESS" : "",
+    "CITY" : "",
+    "STATE" : "",
+    "ZIP_CODE" : "",
+    "PHONE" : "",
+    "SSN": "",
+    "USERNAME" : "",
+    "PASSWORD" : "",
+    "REPETEATED_PASSWORD" : ""
+}

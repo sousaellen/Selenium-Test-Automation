@@ -1,0 +1,13 @@
+{
+    "FIRST_NAME" : "Anne",
+    "LAST_NAME" : "Smith",
+    "ADDRESS" : "999 Farnum Road",
+    "CITY" : "New York",
+    "STATE" : "New York",
+    "ZIP_CODE" : "10022",
+    "PHONE" : "212-339-8813",
+    "SSN": "917-287-7125",
+    "USERNAME" : "annesmith10022",
+    "PASSWORD" : "gaeghieP4",
+    "REPETEATED_PASSWORD" : "gaeghieP4"
+}

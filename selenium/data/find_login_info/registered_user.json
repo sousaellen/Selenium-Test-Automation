@@ -1,0 +1,13 @@
+{
+    "FIRST_NAME" : "John",
+    "LAST_NAME" : "Smith",
+    "ADDRESS" : "3435 Settlers Lane",
+    "CITY" : "New York",
+    "STATE" : "New York",
+    "ZIP_CODE" : "10007",
+    "PHONE" : "917-826-1064",
+    "SSN": "917-208-4614",
+    "USERNAME" : "johnsmith10007",
+    "PASSWORD" : "Ih7oono9",
+    "REPETEATED_PASSWORD" : "Ih7oono9"
+}

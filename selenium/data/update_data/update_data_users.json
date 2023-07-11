@@ -1,0 +1,18 @@
+{
+    "FIRST_NAME" : "Mary",
+    "LAST_NAME" : "Colvard",
+    "ADDRESS" : "991 Church Street",
+    "CITY" : "Brooklyn",
+    "STATE" : "New York",
+    "ZIP_CODE" : "11234",
+    "PHONE" : "718-444-8676",
+    "SSN": "347-277-9202",
+    "USERNAME" : "marycolvard11234",
+    "PASSWORD" : "foh6shoo5Xie",
+    
+    "NEW_ADDRESS" : "990 Church Street",
+    "NEW_CITY" : "Brooklyn",
+    "NEW_STATE" : "New York",
+    "NEW_ZIP_CODE" : "11234",
+    "NEW_PHONE" : "718-444-8676"  
+}
