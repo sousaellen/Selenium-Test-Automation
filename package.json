@@ -1,0 +1,31 @@
+{
+  "name": "selenium-test-automation",
+  "version": "1.0.0",
+  "description": "Test automation project with Selenium.",
+  "main": "UC01.js",
+  "scripts": {
+    "test": "npm run tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sousaellen/Selenium-Test-Automation.git"
+  },
+  "author": "Raissa Sousa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sousaellen/Selenium-Test-Automation/issues"
+  },
+  "homepage": "https://github.com/sousaellen/Selenium-Test-Automation#readme",
+  "dependencies": {
+    "@gechiui/keycodes": "^3.3.1",
+    "async": "^3.2.4",
+    "chromedriver": "^113.0.0",
+    "mocha": "^10.2.0",
+    "selenium-webdriver": "^4.9.2"
+  },
+  "devDependencies": {
+    "allure-commandline": "^2.22.4",
+    "allure-playwright": "^2.4.0",
+    "mochawesome": "^7.1.3"
+  }
+}
